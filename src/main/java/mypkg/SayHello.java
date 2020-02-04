@@ -52,6 +52,10 @@ public class SayHello
         
         System.out.println("Hi, my name is Lance Wood.");
         counter++;
+
+        System.out.println("\nHello! My name is Zachary Fry. Here's a joke!\n" +
+                "Why do Java programmers wear glasses? Because they can't C#!\n" );
+        counter++;
         
         System.out.println( "Number of students who edited this file: "
             + counter );
