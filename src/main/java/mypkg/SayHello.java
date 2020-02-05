@@ -71,6 +71,12 @@ public class SayHello
         System.out.println("Answer: Inheritance.\n");
         counter++;
         
+        // Anthony Baudoin - adding contribution to project file
+        System.out.println("\n Good day, This is Anthony Baudoin, reporting in!");
+        System.out.println("   Why couldn't the programmer leave the shower? \n The shampoo instructions were to \"lather, Rinse, Repeat.\" \n");
+        counter++;
+        
+        
         System.out.println( "Number of students who edited this file: "
             + counter );
     }
