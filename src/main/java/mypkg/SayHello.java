@@ -66,6 +66,11 @@ public class SayHello
         "===================================================== \n");
         counter++;
         
+        System.out.println("Hi, My name is Thi Nguyen.");
+        System.out.println("What's object-oriented way to become wealthy?");
+        System.out.println("Answer: Inheritance.\n");
+        counter++;
+        
         System.out.println( "Number of students who edited this file: "
             + counter );
     }
