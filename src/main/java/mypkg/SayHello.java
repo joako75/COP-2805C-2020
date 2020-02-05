@@ -56,6 +56,15 @@ public class SayHello
         System.out.println("\nHello! My name is Zachary Fry. Here's a joke!\n" +
                 "Why do Java programmers wear glasses? Because they can't C#!\n" );
         counter++;
+
+        System.out.println("===================================================== " +
+                "\nHello, World of COP-2805C class! This is Hung Truong.\n" +
+                "===================================================== \n" +
+                "\t  Why don't electric cars smell bad? ...\n" +
+                "\t  --------------------------------------\n" +
+                "\t\t   Because they don't have gas.\n" +
+        "===================================================== \n");
+        counter++;
         
         System.out.println( "Number of students who edited this file: "
             + counter );

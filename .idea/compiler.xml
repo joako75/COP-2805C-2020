@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="COP-2805C-2020.git" />
         <module name="COP-2805C-2019.git" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="COP-2805C-2019.git" target="1.8" />
+      <module name="COP-2805C-2020.git" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
