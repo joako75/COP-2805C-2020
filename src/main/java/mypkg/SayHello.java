@@ -76,7 +76,10 @@ public class SayHello
         System.out.println("   Why couldn't the programmer leave the shower? \n The shampoo instructions were to \"lather, Rinse, Repeat.\" \n");
         counter++;
         
-        System.out.println( "Howdy, im Benjamin Cloud." );
+        System.out.println( "Howdy, im Benjamin Cloud.\n" );
+        counter++;
+        
+        System.out.println("Hi, My name is Diane Guiselle Vargas.\n");
         counter++;
         
         System.out.println( "Number of students who edited this file: "
