@@ -82,7 +82,7 @@ public class SayHello
         System.out.println("Hi, My name is Diane Guiselle Vargas.\n");
         counter++;
 
-        System.out.println("Hi, My name is Walter Goes.\n");
+        System.out.println("Hi, My name is Walter Goes.");
         System.out.println("Lets all be nice to each other guys, no cyber boolean, ok?.\n");
         counter++;
         
