@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d6742ac-9acd-44c8-b8ad-8c5bb631665b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/mypkg/SayHello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mypkg/SayHello.java" afterDir="false" />
     </list>
@@ -14,6 +10,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="COP-2805C-2020.git" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,10 +36,10 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548114380776" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
-    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
   </component>
   <component name="RunManager" selected="Application.SayHello (1)">
     <configuration name="SayHello (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -102,52 +101,57 @@
       <updated>1548113642134</updated>
       <workItem from="1548113647158" duration="860000" />
       <workItem from="1580883810630" duration="1623000" />
+      <workItem from="1581034493701" duration="1772000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="440" y="182" key="#Project_Structure" timestamp="1581034601323">
+      <screen x="0" y="23" width="1680" height="984" />
+    </state>
+    <state x="440" y="182" key="#Project_Structure/0.23.1680.984@0.23.1680.984" timestamp="1581034601323" />
     <state x="1029" y="421" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1580883984340">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="1029" y="421" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1580883984340" />
-    <state width="1342" height="389" key="GridCell.Tab.0.bottom" timestamp="1580885427211">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1638" height="265" key="GridCell.Tab.0.bottom" timestamp="1581036411080">
+      <screen x="0" y="23" width="1680" height="984" />
     </state>
     <state width="1342" height="389" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1580885427211" />
-    <state width="1342" height="389" key="GridCell.Tab.0.center" timestamp="1580885427211">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1638" height="265" key="GridCell.Tab.0.bottom/0.23.1680.984@0.23.1680.984" timestamp="1581036411080" />
+    <state width="1638" height="265" key="GridCell.Tab.0.center" timestamp="1581036411079">
+      <screen x="0" y="23" width="1680" height="984" />
     </state>
     <state width="1342" height="389" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1580885427211" />
-    <state width="1342" height="389" key="GridCell.Tab.0.left" timestamp="1580885427210">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1638" height="265" key="GridCell.Tab.0.center/0.23.1680.984@0.23.1680.984" timestamp="1581036411079" />
+    <state width="1638" height="265" key="GridCell.Tab.0.left" timestamp="1581036411079">
+      <screen x="0" y="23" width="1680" height="984" />
     </state>
     <state width="1342" height="389" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1580885427210" />
-    <state width="1342" height="389" key="GridCell.Tab.0.right" timestamp="1580885427211">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1638" height="265" key="GridCell.Tab.0.left/0.23.1680.984@0.23.1680.984" timestamp="1581036411079" />
+    <state width="1638" height="265" key="GridCell.Tab.0.right" timestamp="1581036411080">
+      <screen x="0" y="23" width="1680" height="984" />
     </state>
     <state width="1342" height="389" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1580885427211" />
-    <state x="682" y="174" key="SettingsEditor" timestamp="1580885335709">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1638" height="265" key="GridCell.Tab.0.right/0.23.1680.984@0.23.1680.984" timestamp="1581036411080" />
+    <state x="286" y="177" key="SettingsEditor" timestamp="1581036705708">
+      <screen x="0" y="23" width="1680" height="984" />
     </state>
     <state x="682" y="174" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1580885335709" />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>JDK 11</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+    <state x="286" y="177" key="SettingsEditor/0.23.1680.984@0.23.1680.984" timestamp="1581036705708" />
   </component>
 </project>
