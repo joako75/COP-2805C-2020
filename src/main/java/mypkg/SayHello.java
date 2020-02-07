@@ -86,6 +86,9 @@ public class SayHello
         System.out.println("Lets all be nice to each other guys, no cyber boolean, ok?.\n");
         counter++;
         
+        System.out.println("Hello, My name is Reynaldo Marin.\n");
+        counter++;
+        
         System.out.println( "Number of students who edited this file: "
             + counter );
     }
