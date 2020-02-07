@@ -58,7 +58,7 @@ public class SayHello
         counter++;
 
         System.out.println("\nHello, World of COP-2805C class! This is Hung Truong.\n" +
-                "\t  Why don't electric cars smell bad? ...\n" +
+                "\t Why don't electric cars smell bad? ...\n" +
                 "\t\t   Because they don't have gas.\n");
         counter++;
         
