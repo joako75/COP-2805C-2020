@@ -3,6 +3,8 @@
 
 package mypkg;
 
+import java.sql.SQLOutput;
+
 /** Class used for COP-2805C git and GitHub project.
 */
 public class SayHello
@@ -83,6 +85,11 @@ public class SayHello
         counter++;
         
         System.out.println("Hello, My name is Reynaldo Marin.\n");
+        counter++;
+
+        System.out.println("Hello my name is Jason Arundell.");
+        System.out.println("I made a java program to tell me my purpose.");
+        System.out.println("It keeps saying \"Null point exception\", so it works great \n");
         counter++;
         
         System.out.println( "Number of students who edited this file: "
