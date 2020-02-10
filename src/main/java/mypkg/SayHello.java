@@ -92,6 +92,9 @@ public class SayHello
         System.out.println("It keeps saying \"Null point exception\", so it works great \n");
         counter++;
         
+        System.out.println("Hi there. My name is Hamzah Qasim \n");
+        counter++;
+        
         System.out.println( "Number of students who edited this file: "
             + counter );
     }
