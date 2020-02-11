@@ -99,6 +99,9 @@ public class SayHello
         System.out.println("0 bottles of beer on the wall, \n0 bottles of beer! \nYou take one down, and pass it around, \n18446744073709551615 bottles of beer on the wall!\n");
         counter++;
         
+        System.out.println("Hello friends! My name is Akanksha Chavan. \n");
+        counter++;
+        
         System.out.println( "Number of students who edited this file: "
             + counter );
     }
