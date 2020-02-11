@@ -107,6 +107,9 @@ public class SayHello
         System.out.println("I can't wait to see his face light up when he opens it.\n");      
         counter++;
         
+        System.out.println("Hi everyone, this is Amanda checking in. \n");
+        counter++;
+        
         System.out.println( "Number of students who edited this file: "
             + counter );
     }
