@@ -116,6 +116,10 @@ public class SayHello
         System.out.println("Hey this is Eli Bodovinitz. \n");
         counter++;
         
+        System.out.println("Hello this is Owen Bueso.");
+        System.out.println("I don't like Programming jokes... Not one BIT. \n");
+        counter++;
+        
         System.out.println("This is Eric Pigott.");
         System.out.println("AI: is Artificial Intelligence All In?");
         System.out.println();
