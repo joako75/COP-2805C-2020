@@ -102,6 +102,11 @@ public class SayHello
         System.out.println("Hello friends! My name is Akanksha Chavan. \n");
         counter++;
         
+        System.out.println("Hello everyone, I am Tyler Whitehouse. \n");
+        System.out.println("I got my best friend a fridge for his birthday. \n");
+        System.out.println("I can't wait to see his face light up when he opens it.\n");      
+        counter++;
+        
         System.out.println( "Number of students who edited this file: "
             + counter );
     }
