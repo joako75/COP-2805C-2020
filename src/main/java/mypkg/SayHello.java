@@ -110,6 +110,9 @@ public class SayHello
         System.out.println("My name is Eddie and I will not use an Anthony Jeselnik Joke.\n");
         counter++;
         
+        System.out.println("Hi everyone, this is Amanda checking in. \n");
+        counter++;
+        
         System.out.println( "Number of students who edited this file: "
             + counter );
     }
