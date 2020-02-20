@@ -128,6 +128,9 @@ public class SayHello
         System.out.println("Hello from Anthony Brown. I'm not funny so I don't have any jokes.\n");
         counter++;
         
+        System.out.println("Hello! This is joaquin and I finally made it work!");
+        counter++;
+        
         System.out.println( "Number of students who edited this file: "
             + counter );
     }
