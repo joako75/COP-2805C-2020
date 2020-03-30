@@ -24,6 +24,9 @@ public class SayHello
         // (2) Place "counter++;" command after your contribution, to keep count.
         // (3) Keep the existing println statement at the very end.
         
+        System.out.println("Hello! My name is Jordan Adania.");
+        counter++;
+        
         System.out.println( "Greetings all! My name is Tyler Swessel." );
         counter++;
 
